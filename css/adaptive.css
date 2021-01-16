@@ -1,0 +1,725 @@
+@media(max-width:1200px) {
+    .about-hotel .flex{
+        padding: 0 30px;
+    }
+    .top,
+    .header {
+        padding: 30px;
+    }
+
+    .cafe-reservation p {
+        padding: 0 30px;
+    }
+
+
+    .services .list .item {
+        width: 300px;
+    }
+
+    .header .flex ul li {
+        padding: 0 50px;
+    }
+
+    .slide-room-additional-title {
+        padding: 0;
+    }
+
+    .slide-room-additional-title h4 {
+        font-weight: bold;
+        font-size: 1rem;
+    }
+
+    .slider-promotion-block h3 {
+        margin: 0 auto;
+        margin-bottom: 74px;
+        max-width: 800px;
+    }
+
+    #cprt {
+        margin-left: 15%;
+    }
+
+    .prev-clients {
+        left: 80px;
+    }
+
+    .next-clients {
+        left: 238px
+    }
+
+    .slide-room-additional span {
+        font-size: 1rem;
+    }
+
+
+    .cafe-reservation .flex form .your-name,
+    .cafe-reservation .flex form .your-phone,
+    .cafe-reservation .flex form .your-data,
+    .cafe-reservation .flex form .your-time {
+        width: 25%;
+    }
+
+    .slider-rooms {
+        height: 340px;
+    }
+
+    .feedback form {
+        padding: 0 30px;
+    }
+
+    .feedback form .your-name,
+    .feedback form .your-phone,
+    .feedback form .your-mail {
+        width: 276px;
+    }
+
+    .feedback form small {
+        width: 337px;
+    }
+
+    .footer {
+        padding: 100px 30px;
+    }
+
+    .transfers .item {
+        display: inline-block;
+        width: 259px;
+        margin-right: 100px;
+        text-align: center;
+    }
+
+
+    .rooms .item .left {
+        width: 377px;
+    }
+
+
+    .rooms-additional-services .list .item img {
+        max-width: 150px;
+    }
+
+    .main-cafe .flex {
+        padding: 0 30px;
+        padding-top: 228px;
+    }
+
+    .home-delivery .flex,
+    .cafe-reservation .flex {
+        padding: 0 30px;
+    }
+
+    .transfers .item h3 {
+        font-size: 2rem;
+    }
+
+    .cafe-bill-slide {
+        width: 330px;
+    }
+
+    .top .center{
+        margin-left: -33px;
+        padding: 0 30px;
+    }
+}
+
+@media (max-width:990px) {
+    .cafe-sliders #cp {
+        top: 0;
+    }
+    .cafe-sliders .prev,
+    .cafe-sliders .next{
+        top: 109%;
+    }
+
+    .main-cafe .flex {
+        padding: 0 30px;
+        padding-top: 100px;
+    }
+
+    .mobile {
+        display: block;
+    }
+
+    .header,
+    .top {
+        display: none;
+    }
+
+    .main .flex h1 {
+        font-size: 42px;
+    }
+
+    .main .flex span {
+        font-size: 19px;
+    }
+
+    .about-hotel .about-hotel-right {
+        display: block;
+        order: -1;
+        width: 100%;
+    }
+
+    .about-hotel .about-hotel-left {
+        display: block;
+        width: 100%;
+        margin-top: 30px;
+    }
+
+    .about-hotel .flex {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .slider-main {
+        opacity: 1;
+    }
+
+    .slider-promotion-block h3 {
+        font-size: 28px;
+    }
+
+    .OurCafe-slide-right {
+        width: 100%;
+        margin-top: 45px;
+    }
+
+    .OurCafe-slide-left img {
+        width: 100%;
+    }
+
+    .OurCafe-slide-left {
+        width: 100%;
+    }
+
+    .OurCafe-slide .OurCafe-slide-option {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-wrap: wrap;
+        text-align: center;
+        width: 100%;
+    }
+
+    .feedback-clients-slide-left {
+        width: 570px;
+        margin: 0 auto;
+    }
+
+    .prev-clients {
+        left: 20px;
+        top: 102%;
+    }
+
+    .next-clients {
+        top: 102%;
+    }
+
+    #cprt {
+        top: 12px;
+    }
+
+    feedback form .your-name,
+    .feedback form .your-phone,
+    .feedback form .your-mail {
+        width: 100%;
+        margin: 0;
+        margin-bottom: 30px;
+    }
+
+    .feedback form .your-name,
+    .feedback form .your-phone,
+    .feedback form .your-mail {
+        width: 100%;
+        margin: 0;
+        margin-bottom: 30px;
+    }
+
+    .feedback form small {
+        width: 100%;
+        text-align: center;
+    }
+
+    .feedback form .submit {
+        margin-left: 0;
+    }
+
+    .footer .flex {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+
+    .footer .footer-left {
+        width: 100%;
+    }
+
+    .footer-center-left {
+        width: 100%;
+        margin: 30px 0;
+    }
+
+    .footer .footer-center-right {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-self: center;
+        justify-content: center;
+        justify-content: space-evenly;
+        text-align: center;
+    }
+
+    .footer-right {
+        width: 100%;
+    }
+
+    .footer .help-clients {
+        text-align: center;
+    }
+
+    .footer-right .tel a {
+        text-align: center;
+    }
+
+    .feedback-clients-slide-right {
+        left: 0;
+    }
+
+
+    .transfers .item:last-child {
+        margin: 0 auto;
+    }
+
+    .rooms .item .right h2 {
+        font-size: 25px;
+        margin-bottom: 9px;
+    }
+
+    .rooms .list .item {
+        flex-direction: column;
+        padding: 0 30px;
+        padding-bottom: 20px;
+    }
+
+
+    .rooms .item .right {
+        margin: 0;
+        margin-top: 20px;
+    }
+
+    .rooms .item .left,
+    .rooms .item .right {
+        width: 100%;
+    }
+
+    .rooms-additional-services .list {
+        flex-direction: column;
+    }
+
+    .rooms-additional-services .list .item {
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+
+    .rooms-additional-services .list .item img {
+        max-width: 230px;
+    }
+
+    .main-cafe .flex {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .forms.forms-main {
+        margin-top: 30px;
+    }
+
+    .about-cafe p {
+        width: 100%;
+    }
+
+    .home-delivery .flex {
+        flex-direction: column;
+    }
+
+    .home-delivery .flex .right {
+        margin: 30px 0;
+    }
+
+    .cafe-reservation .flex img {
+        display: none;
+    }
+
+    .cafe-reservation .flex span.submit {
+        width: 100%;
+    }
+
+  
+
+
+
+    .next-OurCafe {
+        position: absolute;
+        top: 102%;
+        left: 50%;
+        margin-left: 40px;
+        z-index: 9;
+        right: calc(50% - 90px);
+    }
+
+    .prev-OurCafe {
+        top: 102%;
+        left: calc(50% - 40px)
+    }
+
+    #cpr {
+        left: 0;
+        text-align: center;
+    }
+
+    .about-hotel .about-hotel-left h3 {
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    .about-hotel .about-hotel-left p {
+        margin: 0 auto;
+    }
+
+    .cafe-reservation .flex form .your-name,
+    .cafe-reservation .flex form .your-phone,
+    .cafe-reservation .flex form .your-data,
+    .cafe-reservation .flex form .your-time {
+        margin-right: 0;
+        width: 33%;
+    }
+
+    #modal-form-menu .flex {
+        flex-wrap: wrap;
+    }
+
+    #modal-form-menu .flex .left {
+        width: 100%;
+    }
+
+    #modal-form-menu .flex .right {
+        width: 100%;
+        color: #000;
+        margin-left: 0px;
+    }
+    .next,.prev{
+        top: 112%;
+    }
+    #cp{
+        margin-top: 40px;
+    }
+}
+
+@media (max-width:770px) {
+
+    .main-cafe .flex h1{
+        width: 100%;
+    }
+
+    .rooms .item .right .price {
+        padding-top: 30px;
+        display: block;
+        text-align: center;
+    }
+
+    .rooms .item .right button {
+        width: 100%;
+        margin: 30px 0;
+    }
+
+    .transfers .item {
+        margin: 0 auto;
+        margin-bottom: 27px;
+    }
+
+    .cafe-reservation .flex form .your-comments {
+        width: 100%;
+    }
+
+    .mobile-button-cafe {
+        display: block;
+    }
+
+    .header-right a {
+        display: block;
+    }
+
+    .header-right .top-social a {
+        display: inline;
+    }
+
+    .title-top a {
+        padding: 20px 74px;
+    }
+
+    .about-hotel .about-hotel-right img {
+        width: 100%;
+    }
+
+    .slider-promotion-block h2 {
+        font-size: 26px;
+    }
+
+    .slider-promotion-block h3 {
+        font-size: 25px;
+    }
+
+    .feedback-clients-slide-left {
+        padding: 8%;
+    }
+
+    .feedback-clients-slide-right {
+        height: fit-content;
+    }
+
+    .feedback-clients-sliders {
+        height: 500px;
+    }
+
+    .feedback-clients-slide-right img {
+        width: 100%;
+    }
+
+    .next-clients {
+        left: 60%;
+    }
+
+    .prev-clients {
+        left: 40%;
+        margin: 0;
+    }
+
+    .feedback-clients-slide-left {
+        width: 440px;
+    }
+
+    .cafe-reservation .title h2 {
+        white-space: break-spaces;
+    }
+
+    .forms-main {
+        display: none;
+    }
+
+    #cprt {
+        margin: 0 auto;
+        width: 100%;
+        display: block;
+        text-align: center;
+    }
+
+    .panorama img {
+        width: 100%;
+    }
+
+    .title h2 {
+        font-size: 16px;
+    }
+
+    .feedback-clients-slide-info p {
+        font-size: 17px;
+    }
+
+    .feedback-clients-slide-left p {
+        font-size: 14px;
+        line-height: 25px;
+        text-align: left;
+        max-width: 400px;
+    }
+
+    .cafe-reservation .flex {
+        flex-direction: column;
+    }
+
+    .cafe-reservation .flex form .submit input {
+        padding: 24px 0;
+        width: 100%;
+    }
+
+    .cafe-reservation .flex form .your-name,
+    .cafe-reservation .flex form .your-phone,
+    .cafe-reservation .flex form .your-data,
+    .cafe-reservation .flex form .your-time {
+        width: 100%;
+        margin: 0;
+        margin-bottom: 30px;
+    }
+
+    .cafe-reservation .flex form {
+        max-width: 440px;
+    }
+
+    #cp {
+        margin-top: 30px;
+    }
+
+    .next,
+    .prev {
+        top: 107%;
+    }
+   .OurCafe-slider .next,
+    .OurCafe-slider  .prev {
+    top: 100%;
+    }
+    .slider-rooms {
+        height: fit-content;
+    }
+
+    .services-cafe .list .item {
+        margin: 30px 0;
+        width: 243px;
+    }
+
+    .additional-services .flex .list .item h3 {
+        font-size: 14px;
+    }
+
+    .additional-services .flex .list .item {
+        margin: 30px 0;
+        width: 233px;
+    }
+
+    .panorama,
+    .feedback,
+    .services-cafe,
+    .home-delivery,
+    .cafe-reservation,
+    .contacts,
+    .hotel-rooms {
+        padding: 60px 0;
+    }
+
+    .transfers {
+        margin-top: 60px;
+        padding-top: 60px;
+    }
+
+    .services-table {
+        padding-top: 60px;
+    }
+
+    .title,
+    .main-cafe {
+        margin-bottom: 60px;
+    }
+
+    .about-hotel .flex {
+        padding: 60px 30px;
+    }
+
+    .cafe-sliders .prev,
+    .cafe-sliders .next {
+        top: 107%;
+    }
+}
+
+@media(max-width:440px) {
+    .OurCafe-slide-right{
+        margin-bottom: 45px;
+    }
+    .fancybox-content h3 {
+        text-align: left;
+    }
+
+    #modal-form-menu .flex .right {
+        margin: 0;
+    }
+
+    #modal-form-menu .radio-form {
+        width: 100%;
+        display: block;
+    }
+
+    .next-clients,
+    .prev-clients {
+        top: 104%;
+    }
+
+    .feedback-clients-sliders {
+        height: 321px;
+    }
+
+    .feedback-clients-slide-left {
+        top: 8px;
+        padding: 3%;
+    }
+
+    .next,
+    .prev {
+        top: 110%;
+    }
+
+    .main-cafe .flex h1 {
+        font-size: 35px;
+    }
+
+    .cafe-reservation .flex form {
+        max-width: 320px;
+    }
+
+    .additional-services .flex .list .item {
+        margin: 46px auto;
+        width: 260px;
+    }
+
+    .main .flex h1 {
+        font-size: 25px;
+        line-height: 33px;
+    }
+
+    .main .flex span {
+        font-size: 16px;
+    }
+
+    .slider-promotion-block {
+        width: 100%;
+    }
+
+
+
+
+    .feedback-clients-slide-left {
+        width: 320px;
+    }
+
+    .title h2 {
+        font-size: 13px;
+    }
+
+    .footer .center {
+        margin-left: -18px;
+    }
+
+
+    .next-OurCafe,
+    .prev-OurCafe {
+        top: 102%;
+    }
+
+    .rooms .item .right .price h3 {
+        font-size: 17px;
+    }
+
+    .rooms .item .right h2 {
+        font-size: 21px;
+    }
+
+    .services-cafe .list .item {
+        margin: 0;
+        margin-bottom: 30px;
+    }
+
+    .cafe-sliders .prev,
+    .cafe-sliders .next {
+        top: 110%;
+    }
+}
